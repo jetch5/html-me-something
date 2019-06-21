@@ -1,0 +1,20 @@
+
+header {
+    font-size: 48px;
+    text-align: center;
+}
+
+.classic {
+    height: 300px;
+    width: 500px;
+}
+
+.illinois_legilize {
+    height: 200px;
+    width: 300px;
+}
+
+#strains {
+    text-align: left;
+    color: darkgreen;
+}
